@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "module.h": "c",
+        "fs.h": "c",
+        "group_dev.h": "c",
+        "group_dev_manager.h": "c",
+        "stdlib.h": "c",
+        "tsm_lib.h": "c",
+        "unistd.h": "c",
+        "ioctl.h": "c",
+        "syscall.h": "c",
+        "common.h": "c",
+        "cstdio": "c",
+        "string.h": "c",
+        "stdio.h": "c"
+    }
+}
